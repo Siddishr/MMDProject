@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-10-05T04:39:23.482Z,19.57,76.77,10,4.5,mb,,248,14.224,0.55,us,us6000c5lj,2020-10-05T05:28:41.040Z,West Chile Rise,earthquake,10.4,2,0.127,18,reviewed,us,us
